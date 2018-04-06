@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=SchildGadget(int)
+comment1.params=
+comment1.target=Gadget\ auswerfen()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ ausfuehren()
+comment4.params=x\ y\ g\ spielfeld
+comment4.target=void\ zeichnen(int,\ int,\ java.awt.Graphics,\ Spielfeld)
+comment5.params=
+comment5.target=Gadget\ resetTod()
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ freizuschaltendesLevel
+comment0.target=LevelEnde(int,\ int,\ int)
+comment1.params=r\ geschwindigkeitX\ geschwindigkeitY
+comment1.target=boolean\ kollision(java.awt.Rectangle,\ double,\ double)
+numComments=2

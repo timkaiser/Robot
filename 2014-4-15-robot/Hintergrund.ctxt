@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=Hintergrund(int)
+comment1.params=o
+comment1.target=void\ einfuegen(HintergrundObjekt)
+comment2.params=g\ spielfeld
+comment2.target=void\ zeichnen(java.awt.Graphics,\ Spielfeld)
+numComments=3

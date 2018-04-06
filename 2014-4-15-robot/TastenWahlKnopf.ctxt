@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ breite\ hoehe\ text\ text2\ acLi
+comment0.target=TastenWahlKnopf(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.awt.event.ActionListener)
+comment1.params=t1\ t2
+comment1.target=void\ setText(java.lang.String,\ java.lang.String)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

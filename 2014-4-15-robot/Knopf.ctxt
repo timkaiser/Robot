@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ breite\ hoehe\ text\ acLi
+comment0.target=Knopf(int,\ int,\ int,\ int,\ java.lang.String,\ java.awt.event.ActionListener)
+comment1.params=
+comment1.target=void\ setFocus()
+comment2.params=
+comment2.target=void\ removeFocus()
+comment3.params=
+comment3.target=void\ markieren()
+comment4.params=
+comment4.target=void\ entmarkieren()
+comment5.params=
+comment5.target=boolean\ markiert()
+numComments=6

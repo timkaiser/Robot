@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ l\ s\ tp
+comment0.target=LevelStarter(int,\ int,\ Level,\ int,\ int)
+comment1.params=
+comment1.target=java.awt.Image\ getBild()
+comment2.params=r\ geschwindigkeitX\ geschwindigkeitY
+comment2.target=boolean\ kollision(java.awt.Rectangle,\ double,\ double)
+numComments=3

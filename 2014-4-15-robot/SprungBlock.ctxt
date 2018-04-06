@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ l
+comment0.target=SprungBlock(int,\ int,\ Level)
+comment1.params=r\ geschwindigkeitX\ geschwindigkeitY
+comment1.target=boolean\ kollision(java.awt.Rectangle,\ double,\ double)
+comment2.params=e
+comment2.target=void\ istKollidiertMit(Einheit)
+numComments=3

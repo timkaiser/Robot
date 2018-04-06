@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=img\ x\ y\ l
+comment0.target=NormalerBlock(java.awt.Image,\ int,\ int,\ Level)
+comment1.params=r\ geschwindigkeitX\ geschwindigkeitY
+comment1.target=boolean\ kollision(java.awt.Rectangle,\ double,\ double)
+numComments=2

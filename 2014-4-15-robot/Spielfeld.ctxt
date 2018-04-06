@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spielfeld()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=Spieler\ getSpieler()
+comment3.params=g
+comment3.target=java.awt.Graphics\ hitboxen(java.awt.Graphics)
+numComments=4

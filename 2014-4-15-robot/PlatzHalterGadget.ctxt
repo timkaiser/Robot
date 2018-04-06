@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sp
+comment0.target=PlatzHalterGadget(Spieler)
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=void\ ausfuehren()
+comment3.params=
+comment3.target=Gadget\ resetTod()
+comment4.params=
+comment4.target=void\ special()
+comment5.params=
+comment5.target=boolean\ blockUeberSpieler()
+numComments=6

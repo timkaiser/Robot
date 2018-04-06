@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pausenmenue()
+comment1.params=
+comment1.target=void\ leeren()
+comment10.params=k
+comment10.target=void\ input(int)
+comment11.params=
+comment11.target=void\ zurueck()
+comment2.params=
+comment2.target=void\ steuerungswahlHinzufuegen()
+comment3.params=
+comment3.target=void\ tastenAuktualisieren()
+comment4.params=
+comment4.target=void\ einstellungenSpeichern()
+comment5.params=
+comment5.target=void\ startmenueHinzufuegen()
+comment6.params=
+comment6.target=void\ fortsetzen()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ alleEntmarkieren()
+comment9.params=taste
+comment9.target=boolean\ tasteBelegt(int)
+numComments=12

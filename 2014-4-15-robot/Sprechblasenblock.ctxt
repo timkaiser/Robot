@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ l
+comment0.target=Sprechblasenblock(int,\ int,\ Level)
+comment1.params=
+comment1.target=void\ ausloesen()
+comment2.params=r\ geschwindigkeitX\ geschwindigkeitY
+comment2.target=boolean\ kollision(java.awt.Rectangle,\ double,\ double)
+comment3.params=
+comment3.target=void\ special()
+comment4.params=g\ spielfeld
+comment4.target=void\ zeichnen(java.awt.Graphics,\ Spielfeld)
+numComments=5
