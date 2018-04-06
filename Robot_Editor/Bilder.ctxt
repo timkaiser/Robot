@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bilder()
+comment1.params=pfad
+comment1.target=java.awt.image.BufferedImage\ bildHinzuf\u00FCgen(java.lang.String)
+comment10.params=
+comment10.target=java.awt.image.BufferedImage\ getTrigger()
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getMetallBlock()
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getEinwegBlock()
+comment4.params=
+comment4.target=java.awt.image.BufferedImage\ getBewegenderBlock()
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ getStartBlock()
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ getSprungBlock()
+comment7.params=a
+comment7.target=java.awt.image.BufferedImage\ getLevelBlock(char)
+comment8.params=i
+comment8.target=java.awt.image.BufferedImage\ getGegner(int)
+comment9.params=
+comment9.target=java.awt.image.BufferedImage\ getGlas()
+numComments=11

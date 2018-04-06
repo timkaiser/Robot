@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=namen\ panel
+comment0.target=AuswahlMenue(java.lang.String[],\ AuswahlPanel)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=java.lang.String\ getFocus()
+numComments=3

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=WerkzeugPanel(int,\ int,\ int,\ int)
+numComments=1

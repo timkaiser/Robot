@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=gitter\ mausX\ mausY
+comment0.target=void\ ausfuehren(Gitter[][],\ int,\ int)
+numComments=1

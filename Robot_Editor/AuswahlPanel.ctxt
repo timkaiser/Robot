@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=extras
+comment0.target=AuswahlPanel(Extras)
+comment1.params=index
+comment1.target=KnopfPanel\ getPanel(int)
+comment2.params=
+comment2.target=int\ getPanelSize()
+comment3.params=
+comment3.target=void\ updatePanel()
+comment4.params=name
+comment4.target=void\ show(java.lang.String)
+numComments=5
